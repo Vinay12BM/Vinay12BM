@@ -47,6 +47,6 @@
 
 ### 📫 Reach Me At
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinaybm12/)
-[![Gmail](https://img.shields.io/badge/-vinaybm12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinaybm12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinay-vinay-3a5940299)
+[![Gmail](https://img.shields.io/badge/-vinaybm12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinaybmvini0@gmail.com)
 
